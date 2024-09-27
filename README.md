@@ -18,6 +18,6 @@ News —  https://x.com/Ca1vinjolly
 
 Projects participation 
 
-Nibiru
 
-### Mars Protocol | Haqq | Cross Finance | [Babylon](https://vc.ca1vin.one/node-setup-guides/babylon) | Pryzm Testnet | [GaiaNet](https://vc.ca1vin.one/node-setup-guides/gaianet) |Crossfi Testnet | Artela Testnet | [Warden Testnet](https://vc.ca1vin.one/node-setup-guides/warden-protocol) | [0G Testnet v1](https://vc.ca1vin.one/node-setup-guides/0g) | Analog Testnet | [Ritual](https://vc.ca1vin.one/node-setup-guides/ritual) | [Waku](https://medium.com/@dvadcatodinpilot/waku-node-installation-guide-e59e86a974ad) |
+
+### Nibiru | Mars Protocol | Haqq | Cross Finance | [Babylon](https://vc.ca1vin.one/node-setup-guides/babylon) | Pryzm Testnet | [GaiaNet](https://vc.ca1vin.one/node-setup-guides/gaianet) |Crossfi Testnet | Artela Testnet | [Warden Testnet](https://vc.ca1vin.one/node-setup-guides/warden-protocol) | [0G Testnet v1](https://vc.ca1vin.one/node-setup-guides/0g) | Analog Testnet | [Ritual](https://vc.ca1vin.one/node-setup-guides/ritual) | [Waku](https://medium.com/@dvadcatodinpilot/waku-node-installation-guide-e59e86a974ad) |
